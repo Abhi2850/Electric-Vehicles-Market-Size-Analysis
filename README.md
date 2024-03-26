@@ -1,7 +1,7 @@
 # Electric-Vehicles-Market-Size-Analysis
 ![1694422638964](https://github.com/Abhi2850/Electric-Vehicles-Market-Size-Analysis/assets/91343400/fa9d311b-473c-4036-9822-f2c53b9ea600)
 
-Tools Used🛠: Python, Pandas, Machine Learning, Matplotlib, Scipy
+Tools Used🛠: Python, Pandas, Machine Learning, Matplotlib, Scipy, Seaborn
 
 🔗dataset link --> https://statso.io/market-size-of-evs-case-study/
 
